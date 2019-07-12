@@ -1,6 +1,6 @@
-#' Tweet sample
+#' Pendapatan per gender
 #'
-#' Look up airline names from their carrier codes.
+#' Pendapatan berdasarkan gender
 #'
 #' @format Data frame with columns
 #' \describe{
