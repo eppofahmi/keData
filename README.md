@@ -6,7 +6,7 @@ Paket ini terinspirasi dari https://github.com/hadley/nycflights13, digunakan un
 
 ## Install 
 
-`Install from GitHub: devtools::install_github("eppofahmi/keData")`
+Install from GitHub: `devtools::install_github("eppofahmi/keData")`
 
 ## Data 
 
