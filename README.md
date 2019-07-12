@@ -6,6 +6,7 @@ Paket ini terinspirasi dari https://github.com/hadley/nycflights13, digunakan un
 
 ## Install 
 
+Req: R Version (>= 3.5.0)
 Install from GitHub: `devtools::install_github("eppofahmi/keData")`
 
 ## Data 
