@@ -4,6 +4,12 @@
 
 Paket ini terinspirasi dari https://github.com/hadley/nycflights13, digunakan untuk menyimpan beberapa data untuk latihan data sains di kelas data sains Sadasa dan Bootcamp Kedata.
 
+## Install 
+
+`Install from GitHub: devtools::install_github("eppofahmi/keData")`
+
+## Data 
+
 This package provides the following data tables.
 
 * `kedataTwit`: Contoh data text yang diambil dari Twitter
