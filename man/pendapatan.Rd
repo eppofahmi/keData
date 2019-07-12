@@ -3,7 +3,7 @@
 \docType{data}
 \name{pendapatan}
 \alias{pendapatan}
-\title{Tweet sample}
+\title{Pendapatan per gender}
 \format{Data frame with columns
 \describe{
 \item{earn}{double}
@@ -17,7 +17,7 @@
 pendapatan
 }
 \description{
-Look up airline names from their carrier codes.
+Pendapatan berdasarkan gender
 }
 \examples{
   pendapatan
