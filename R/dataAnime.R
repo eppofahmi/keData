@@ -2,26 +2,28 @@
 #'
 #' Information about anime
 #'
+#' @source https://www.kaggle.com/canggih/anime-data-score-staff-synopsis-and-genre
+#'
 #' @format Data frame with columns
 #' \describe{
-#' \item{Title}{date in character format}
-#' \item{Type}{time in character format}
-#' \item{Episodes}{username in character format}
-#' \item{Status}{tweet content in character format}
-#' \item{Start airing}{should be logical}
-#' \item{End airing}{number of tweet replied}
-#' \item{Starting season}{number of tweet retweeted}
-#' \item{Broadcast time}{number of tweet favorited}
-#' \item{Licensors}{tweet source}
-#' \item{Studios}{tweet source}
-#' \item{Sources}{tweet source}
-#' \item{Genres}{tweet source}
-#' \item{Rating}{tweet source}
-#' \item{Score}{tweet source}
-#' \item{Scored by}{tweet source}
-#' \item{Members}{tweet source}
-#' \item{Favorites}{tweet source}
-#' \item{Description}{tweet source}
+#' \item{Title}{chr}
+#' \item{Type}{chr}
+#' \item{Episodes}{chr}
+#' \item{Status}{chr}
+#' \item{Start airing}{chr}
+#' \item{End airing}{chr}
+#' \item{Starting season}{chr}
+#' \item{Broadcast time}{chr}
+#' \item{Licensors}{chr}
+#' \item{Studios}{chr}
+#' \item{Sources}{chr}
+#' \item{Genres}{chr}
+#' \item{Rating}{chacrater}
+#' \item{Score}{number}
+#' \item{Scored by}{number}
+#' \item{Members}{number}
+#' \item{Favorites}{number}
+#' \item{Description}{character description}
 #' }
 #' @examples
 #'   dataAnime
