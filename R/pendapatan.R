@@ -1,6 +1,6 @@
-#' Pendapatan per gender
+#' Income per gender
 #'
-#' Pendapatan berdasarkan gender
+#' Income based on gender
 #'
 #' @format Data frame with columns
 #' \describe{
