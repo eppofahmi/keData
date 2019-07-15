@@ -16,3 +16,4 @@ This package provides the following data tables
 
 * `kedataTwit`: Contoh data text yang diambil dari Twitter
 * `pendapatan`: Data pendapatan berdasarkan gender
+* `normaliselexicon`: Kamus untuk normalisasi teks bahasa Indonesia
