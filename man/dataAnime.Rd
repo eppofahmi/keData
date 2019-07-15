@@ -24,14 +24,13 @@
 \item{Members}{tweet source}
 \item{Favorites}{tweet source}
 \item{Description}{tweet source}
-}}
+}
+'@examples
+dataAnime}
 \usage{
 dataAnime
 }
 \description{
 Information about anime
-}
-\examples{
-  dataAnime
 }
 \keyword{datasets}

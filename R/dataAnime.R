@@ -23,8 +23,6 @@
 #' \item{Favorites}{tweet source}
 #' \item{Description}{tweet source}
 #' }
-#' '@examples
-#' \dontrun{
-#' dataAnime
-#'}
+#' @examples
+#'   dataAnime
 "dataAnime"
