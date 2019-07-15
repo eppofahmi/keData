@@ -16,14 +16,11 @@
 \item{favorite}{number of tweet favorited}
 \item{source}{tweet source}
 }}
-\source{
-https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236
-}
 \usage{
 kedataTwit
 }
 \description{
-Look up airline names from their carrier codes.
+Sample text data from twitter
 }
 \examples{
   kedataTwit

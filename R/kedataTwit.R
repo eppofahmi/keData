@@ -1,8 +1,7 @@
 #' Tweet sample
 #'
-#' Look up airline names from their carrier codes.
+#' Sample text data from twitter
 #'
-#' @source https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236
 #' @format Data frame with columns
 #' \describe{
 #' \item{created_at}{date in character format}
