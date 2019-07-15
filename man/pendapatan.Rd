@@ -3,7 +3,7 @@
 \docType{data}
 \name{pendapatan}
 \alias{pendapatan}
-\title{Pendapatan per gender}
+\title{Income per gender}
 \format{Data frame with columns
 \describe{
 \item{earn}{double}
@@ -17,7 +17,7 @@
 pendapatan
 }
 \description{
-Pendapatan berdasarkan gender
+Income based on gender
 }
 \examples{
   pendapatan

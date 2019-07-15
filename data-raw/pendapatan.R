@@ -5,4 +5,4 @@ pendapatan <- read_csv("data-raw/pendapatan.csv",
 
 # glimpse(kemenkes)
 write_csv(pendapatan, "data-raw/pendapatan.csv")
-save(pendapatan, file = "data/pendapatan.rda")
+save(pendapatan, file = "data/pendapatan.rda", compress = "xz")
