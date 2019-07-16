@@ -1,7 +1,10 @@
-# keData
-
 [![Travis-CI Build Status](https://travis-ci.org/eppofahmi/keData.svg?branch=master)](https://travis-ci.org/eppofahmi/keData)
 [![HitCount](http://hits.dwyl.io/eppofahmi/keData.svg)](http://hits.dwyl.io/eppofahmi/keData)
+
+keData
+======
+
+<img src="images/logokedata.png" width="150" />
 
 Paket ini terinspirasi dari https://github.com/hadley/nycflights13, digunakan untuk menyimpan beberapa data untuk latihan data sains di kelas data sains Sadasa dan Bootcamp Kedata.
 
@@ -19,3 +22,8 @@ This package provides the following data tables
 * `pendapatan`: Data pendapatan berdasarkan gender
 * `normaliselexicon`: Kamus untuk normalisasi teks bahasa Indonesia
 * `dataanime`: informasi terkait dengan anime
+
+## Contributors
+
+-   [Canggih PW](https://github.com/canggihpw)
+-   [Kristonova](https://github.com/kristonova)
