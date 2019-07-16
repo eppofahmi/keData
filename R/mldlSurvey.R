@@ -11,5 +11,7 @@
 #' \item{SurveySchema}{data frame with 52 variables and 52 observations}
 #' }
 #' @examples
-#'   mldlSurvey
+#' \dontrun{
+#'  mldlSurvey
+#' }
 "mldlSurvey"
