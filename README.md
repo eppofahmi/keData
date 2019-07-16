@@ -22,6 +22,8 @@ This package provides the following data tables
 * `pendapatan`: Data pendapatan berdasarkan gender
 * `normaliselexicon`: Kamus untuk normalisasi teks bahasa Indonesia
 * `dataanime`: informasi terkait dengan anime
+* `statData`: list data frame untuk latihan statistik
+* `mldlSurvey`: list terdiri dari data frame hasil survei tentang ML dan DS dari kaggle
 
 ## Contributors
 
