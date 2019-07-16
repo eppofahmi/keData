@@ -1,0 +1,19 @@
+#' Statistic data 
+#'
+#' Data to test statistical calculation (logistik Multinomial, dataPanel, logistik, regresi Dummy, 
+#' regresiBerganda, and regresiLinier) in R
+#'
+#' @format A list with 6 elements
+#' \describe{
+#' \item{logistikMultinomial}{data frame with 14 varibales and 300 observations}
+#' \item{dataPanel}{data frame with 6 varibales and 90 observations}
+#' \item{logistik}{data frame with 5 variables and 35 observations}
+#' \item{regresiDummy}{data frame with 4 variables and 238 observations}
+#' \item{regresiBerganda}{data frame with 9 variables and 44 observations}
+#' \item{regresiLinier}{data frame with 2 variables and 23 observations}
+#' }
+#' @examples
+#' \dontrun{
+#'  statData
+#' }
+"statData"
