@@ -20,6 +20,8 @@ mldlSurvey
 Kaggle ML & DS Survey 2018
 }
 \examples{
-  mldlSurvey
+\dontrun{
+ mldlSurvey
+}
 }
 \keyword{datasets}
